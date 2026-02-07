@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to architect, secure, and scale intelligent digital ecosystems by combining diverse programming methodologies with machine learning models that can "see" and "hear", all while managing the interconnected hardware and cloud infrastructure that powers the modern world.**
 
-- 🤝 I’m looking for help with ways to learn, **Learning Machine Learning, Data Analytics, and Data Science**.
+- 🤝 I’m looking for help with ways to learn, ** Machine Learning, Data Analytics, and Data Science**.
 
 - 📫 How to reach me **sooryas@outlook.com**
 
