@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with ways to learn, **Machine Learning, Data Analytics, and Data Science**.
 
-- 📫 How to reach me **sooryas@outlook.com**
+- 📫 How to reach me -> **sooryas@outlook.com**
   
 - 👨🏾‍💻 My Website -> **https://soorya-selvakumar.vercel.app/**
 
